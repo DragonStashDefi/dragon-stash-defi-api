@@ -1,6 +1,6 @@
 # panther-api
 
-Set of endpoints utilities for PantherSwap, based on Serverless.
+Set of endpoints utilities for DragonStash, based on Serverless.
 
 ## Dependencies
 
